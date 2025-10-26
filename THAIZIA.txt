@@ -1,6 +1,6 @@
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "Banana Cat Hub-Blox Fruit [ Premium ]",-- thay tên bạn muốn đặt
+    Title = "XBX hub -Blox Fruit [ Premium ]",-- thay tên bạn muốn đặt
     SubTitle = "By Obii",-- tên bạn
     TabWidth = 160,
     Theme = "Dark",--màu
@@ -2323,7 +2323,7 @@ v23.BorderSizePixel = 0;
 v23.Position = UDim2.new(0.120833337 - 0.1, 0, 0.0952890813 + 0.01, 0);
 v23.Size = UDim2.new(0, 50, 0, 50);
 v23.Draggable = true;
-v23.Image = "http://www.roblox.com/asset/?id=130947856929902";
+v23.Image = "http://www.roblox.com/asset/?id=16029928246";
 
 v24.Parent = v23;
 v24.CornerRadius = UDim.new(1, 0);
@@ -9026,4 +9026,5 @@ spawn(function()
         end
     end
 end);
+
 
